@@ -93,7 +93,7 @@ const LandingPage = () => {
             high-performing campaigns that deliver real results.
           </p>
 
-          <div className="lp-ctas">
+          {/* <div className="lp-ctas">
             <Link to="/contact" className="lp-btn lp-btn--primary">
               Get Free Strategy Call
               <ArrowRight size={16} />
@@ -102,7 +102,7 @@ const LandingPage = () => {
               Explore Services
               <Settings2 size={16} />
             </Link>
-          </div>
+          </div> */}
 
           <div className="lp-features">
             {features.map(({ icon: Icon, label }) => (

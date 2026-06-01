@@ -7,7 +7,7 @@ const TestimonialCarousel = () => {
     {
       id: 1,
       text: "We helped Oliver establish a strong online presence with social media setup, Meta Ads, and business generation. Their visibility and customer inquiries grew significantly.",
-      name: "Rakesh Middha",
+      name: "Rajesh Middha",
       role: "Owner – Oliver Apparels (Clothing)",
       quote: "Great team! They helped us build our brand online from scratch.",
       image: "/assets/images/brandlogo/Oliver.jpg"
@@ -15,7 +15,7 @@ const TestimonialCarousel = () => {
     {
       id: 2,
       text: "Kalaagri expanded its reach with our social media management and consistent digital branding. Their customer engagement improved noticeably.",
-      name: "Rakesh Middha",
+      name: "Rajesh Middha",
       role: "Owner – Kalaagri (Clothing)",
       quote: "Our brand looks more premium online – very happy with the work.",
       image: "/assets/images/brandlogo/kalaagri.jpg"
