@@ -138,8 +138,8 @@ export const socialPortfolioClients = [
       { id: 'ka-p4', src: kgp4 },
     ],
     reels: [
-      { id: 'ka-1', url: 'https://www.instagram.com/reel/DYweAQZRfls/', thumbnail: kgr1 },
-      { id: 'ka-2', url: 'https://www.instagram.com/reels/DXjYynFkTtu/', thumbnail: kgr2 },
+      { id: 'ka-1', url: 'https://www.instagram.com/reel/DYmgMMzpAbl/', thumbnail: kgr1 },
+      { id: 'ka-2', url: 'https://www.instagram.com/reel/DYheK60pb-i/', thumbnail: kgr2 },
       { id: 'ka-3', url: 'https://www.instagram.com/reels/DWqZs9dD3SH/', thumbnail: kgr3 },
       { id: 'ka-4', url: 'https://www.instagram.com/reels/DWOWNfOj8Rd/', thumbnail: kgr4 },
     ],
