@@ -88,10 +88,10 @@ export const socialPortfolioClients = [
       { id: 'oa-p4', src: olp4 },
     ],
     reels: [
-      { id: 'oa-1', url: 'https://www.instagram.com/reels/DYobc3mTSIv/', thumbnail: ol1 },
-      { id: 'oa-2', url: 'https://www.instagram.com/reels/DYHdU2Rzgkr/', thumbnail: ol2 },
-      { id: 'oa-3', url: 'https://www.instagram.com/reels/DYUhh-ezROv/', thumbnail: ol3 },
-      { id: 'oa-4', url: 'https://www.instagram.com/reels/DXJzkqrEw8H/', thumbnail: ol4 },
+      { id: 'oa-1', url: 'https://www.instagram.com/reel/DYHdU2Rzgkr/', thumbnail: ol1 },
+      { id: 'oa-2', url: 'https://www.instagram.com/reel/DYUhh-ezROv/', thumbnail: ol2 },
+      { id: 'oa-3', url: 'https://www.instagram.com/reel/DXJzkqrEw8H', thumbnail: ol3 },
+      { id: 'oa-4', url: 'https://www.instagram.com/reel/DYwZL66AvJJ/', thumbnail: ol4 },
     ],
   },
   {
@@ -140,7 +140,7 @@ export const socialPortfolioClients = [
     reels: [
       { id: 'ka-1', url: 'https://www.instagram.com/reel/DYmgMMzpAbl/', thumbnail: kgr1 },
       { id: 'ka-2', url: 'https://www.instagram.com/reel/DYheK60pb-i/', thumbnail: kgr2 },
-      { id: 'ka-3', url: 'https://www.instagram.com/reels/DWqZs9dD3SH/', thumbnail: kgr3 },
+      { id: 'ka-3', url: 'https://www.instagram.com/reel/DWWE3Fxj1WK/', thumbnail: kgr3 },
       { id: 'ka-4', url: 'https://www.instagram.com/reels/DWOWNfOj8Rd/', thumbnail: kgr4 },
     ],
   },
